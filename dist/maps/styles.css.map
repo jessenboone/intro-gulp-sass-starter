@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAEA,KAAK,CAAC;EACJ,KAAK,EAHK,MAAM;EAIhB,SAAS,EAAE,IAAK,GACjB","file":"../styles.css","sourcesContent":["$germColor: purple;\r\n\r\n.name {\r\n  color: $germColor;\r\n  font-size: 22px;\r\n}\r\n"]}
